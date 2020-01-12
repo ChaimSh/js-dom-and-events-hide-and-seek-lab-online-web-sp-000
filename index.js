@@ -18,5 +18,5 @@ function nestedTarget() {
 //   }
 // }
 function increaseRankBy(){
-
+  const rankedLists = document.querySelectorAll('.ranked-list ')
 }
